@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desafio Front-end - LAB-APP
 
-## Getting Started
+Obrigado pelo seu interesse em trabalhar conosco! Abaixo, você encontrará todas as informações necessárias para iniciar o seu desafio.
 
-First, run the development server:
+## Sobre o projecto (LAB-APP)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O objetivo deste desafio é criar uma aplicação que liste as infraestruturas de uma escola, permitindo a classificação de laboratórios ou salas de aulas como funcionais e não funcionais, Ao final, a aplicação deve cadastrar / actualizar o total de laboratórios e salas de aulas funcionais e não funcionais.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Avisos antes de começar
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Leia com atenção este documento todo e tente seguir ao **máximo** as instruções;
+- Crie um repositório no seu GitHub **sem citar nada relacionado a LBC**;
+- Faça seus commits no seu repositório;
+- Envie o link do seu repositório para o seguinte email: **edvaldo.afonso@lbc-global.com**;
+- Fique à vontade para perguntar qualquer dúvida;
+- Fique calmo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+_Corpo do Email com o link do repositório do desafio_
 
-## Learn More
+> Seu Nome
+>
+> Nome do recrutador (Edvaldo Afonso)
+>
+> Link do repositório
+>
+> Link do Linkedin
 
-To learn more about Next.js, take a look at the following resources:
+### Requisitos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Abaixo estão descritas as funcionalidades que você deve adicionar à sua aplicação.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Defina uma estrutura de dados de sua escolha para armazenar os dados de acordo com a interface apresentada no Figma.
+- Os campos de entrada (input's) não devem aceitar números negativos.
+- Para a primeira linha (Salas de Aula Teóricas), os campos de entrada (Funcionais e Não funcionais) devem estar bloqueados com valores 0.
+- Caso já existam dados na estrutura de dados definida, deve ser possível actualizá-los.
+- Escolha qualquer framework com o qual você se sinta **confortável** em trabalhar. Este desafio não tem preferência por um específico, portanto escolha aquele com o qual você se sentirá mais confiante para apresentar e discutir durante a entrevista ;)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🖼️ FIGMA
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Link do FIGMA](https://www.figma.com/file/edhpDqoCAheWWDRqS6lV2g/FrontEnd-%2F-AO?type=design&node-id=1%3A2&mode=design&t=Z8y5H0utSNWgAz7s-1)
+
+## 📅 Entrega
+
+Esse desafio **precisa ser entregue através de algum repositório** em até **2 dias** e será avaliado por nós de acordo com os pontos citados acima.
+
+## Contacto
+
+Email para tirar dúvidas: edvaldo.afonso@lbc-global.com 
+
+### Boa sorte!
